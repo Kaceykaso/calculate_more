@@ -52,6 +52,6 @@ $(document).ready(function() {
             "I don't understand.",
             "Error.",
         ];
-        heading.textContent = phrases[Math.floor(Math.random() * 11)];
+        heading.textContent = phrases[Math.floor(Math.random() * 10)];
     };
   };
